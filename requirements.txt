@@ -10,3 +10,4 @@ langchain-community
 langgraph
 pypdf
 wikipedia
+langchain-text-splitters
